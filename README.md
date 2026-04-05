@@ -72,5 +72,6 @@ title('Error Signal');
 
 
 ## RESULT:
-![9R](https://github.com/user-attachments/assets/8992e972-c7ef-4719-bf0f-f002bb3ac11d)
+![exp 9 result](https://github.com/user-attachments/assets/e3aacb18-1809-41c8-b8c8-320897e7f1d0)
+
 
